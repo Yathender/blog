@@ -12,7 +12,7 @@ Step 1: update pip
 python -m pip install -U pip
 
 | ------------------ |
-| ![main](pip.png)   |
+| !(pip.png)   |
 
 this will update pip
 
@@ -22,7 +22,7 @@ Step 2: enter the below command to install matplotlib
  pip install matplotlib
  
  | ------------------ |
- | ![main](install.png)   |
+ | !(install.png)   |
 
 After installation run main.py from the folder
 by
@@ -61,7 +61,7 @@ def h(clock):
 
 | `python main.py`   | Lamport's paper     |
 | ------------------ | ------------------- |
-| ![main](clock.png) | ![paper](paper.png) |
+| !(clock.png) | !(paper.png) |
 
 we define three processes f ,g ,h
 
