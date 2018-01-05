@@ -59,8 +59,11 @@ def h(clock):
 
 
 
-| `python main.py`   | Lamport's paper     |
-| ![](clock.png) | ![](paper.png) |
+ `python main.py`  
+| ![](clock.png) | 
+
+ Lamport's paper   
+![](paper.png) |
 
 we define three processes f ,g ,h
 
