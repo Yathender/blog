@@ -72,7 +72,9 @@ each process has three types of events
 2) recv event
 3) local event 
 
-For example; clock.send(1) ---> send event from a process to process 1
+For example; 
+
+             clock.send(1) ---> send event from a process to process 1
              clock.send(0) ---> send event from a process to process 0
              clock.send(2) ---> send event from a process to process 2
              
