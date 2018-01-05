@@ -5,7 +5,7 @@ Here I would show you the implementation of Lamport's algorithm in Python 3.
 
 First we need to install "matplotlib"
 
-To instal matplotlib follow below instructions :
+To install matplotlib follow below instructions :
 
 Step 1: update pip
 
