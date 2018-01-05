@@ -12,7 +12,7 @@ Step 1: update pip
 python -m pip install -U pip
 
 | ------------------ |
-| !(pip.png)   |
+| ![](pip.png)   |
 
 this will update pip
 
@@ -22,7 +22,7 @@ Step 2: enter the below command to install matplotlib
  pip install matplotlib
  
  | ------------------ |
- | !(install.png)   |
+ | ![](install.png)   |
 
 After installation run main.py from the folder
 by
